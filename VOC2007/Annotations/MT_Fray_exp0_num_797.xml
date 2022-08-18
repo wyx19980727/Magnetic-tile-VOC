@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>MT_Fray_exp0_num_797.jpg</filename>
+	<path>E:\DataSets\Magnetic-tile-VOC\VOC2007\JPEGImages\MT_Fray_exp0_num_797.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>488</width>
+		<height>354</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MT_Fray</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>458</xmin>
+			<ymin>334</ymin>
+			<xmax>474</xmax>
+			<ymax>354</ymax>
+		</bndbox>
+	</object>
+</annotation>

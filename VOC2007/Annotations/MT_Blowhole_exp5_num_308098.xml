@@ -1,0 +1,27 @@
+<annotation>
+  <folder>1</folder>
+  <filename>exp5_num_308098.jpg</filename>
+  <source>
+    <database>CKdemo</database>
+    <annotation>VOC</annotation>
+    <image>CK</image>
+  </source>
+  <size>
+    <width>220</width>
+    <height>278</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>MT_Blowhole</name>
+    <pose/>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>212</xmin>
+      <ymin>191</ymin>
+      <xmax>217</xmax>
+      <ymax>201</ymax>
+    </bndbox>
+  </object>
+</annotation>

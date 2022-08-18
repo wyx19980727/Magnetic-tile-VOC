@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>MT_Break_exp3_num_271400.jpg</filename>
+	<path>E:\DataSets\Magnetic-tile-VOC\VOC2007\JPEGImages\MT_Break_exp3_num_271400.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>220</width>
+		<height>274</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MT_Break</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>1</ymin>
+			<xmax>26</xmax>
+			<ymax>43</ymax>
+		</bndbox>
+	</object>
+</annotation>

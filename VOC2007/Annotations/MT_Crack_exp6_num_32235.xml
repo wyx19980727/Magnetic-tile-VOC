@@ -1,0 +1,27 @@
+<annotation>
+  <folder>1</folder>
+  <filename>exp6_num_32235.jpg</filename>
+  <source>
+    <database>CKdemo</database>
+    <annotation>VOC</annotation>
+    <image>CK</image>
+  </source>
+  <size>
+    <width>128</width>
+    <height>288</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>MT_Crack</name>
+    <pose/>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>4</xmin>
+      <ymin>252</ymin>
+      <xmax>41</xmax>
+      <ymax>288</ymax>
+    </bndbox>
+  </object>
+</annotation>

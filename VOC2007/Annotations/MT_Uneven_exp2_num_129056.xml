@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>MT_Uneven_exp2_num_129056.jpg</filename>
+	<path>E:\DataSets\Magnetic-tile-VOC\VOC2007\JPEGImages\MT_Uneven_exp2_num_129056.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>244</width>
+		<height>354</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MT_Uneven</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>237</xmax>
+			<ymax>50</ymax>
+		</bndbox>
+	</object>
+</annotation>

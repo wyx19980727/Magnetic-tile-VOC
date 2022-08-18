@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>MT_Crack_exp1_num_32128.jpg</filename>
+	<path>E:\DataSets\Magnetic-tile-VOC\VOC2007\JPEGImages\MT_Crack_exp1_num_32128.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>122</width>
+		<height>285</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MT_Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>250</ymin>
+			<xmax>45</xmax>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+</annotation>

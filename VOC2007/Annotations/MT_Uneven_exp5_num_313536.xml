@@ -1,0 +1,27 @@
+<annotation>
+  <folder>1</folder>
+  <filename>exp5_num_313536.jpg</filename>
+  <source>
+    <database>CKdemo</database>
+    <annotation>VOC</annotation>
+    <image>CK</image>
+  </source>
+  <size>
+    <width>247</width>
+    <height>346</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>MT_Uneven</name>
+    <pose/>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>0</xmin>
+      <ymin>0</ymin>
+      <xmax>247</xmax>
+      <ymax>119</ymax>
+    </bndbox>
+  </object>
+</annotation>

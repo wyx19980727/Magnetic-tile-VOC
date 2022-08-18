@@ -1,0 +1,15 @@
+<annotation>
+  <folder>1</folder>
+  <filename>exp6_num_280303.jpg</filename>
+  <source>
+    <database>CKdemo</database>
+    <annotation>VOC</annotation>
+    <image>CK</image>
+  </source>
+  <size>
+    <width>249</width>
+    <height>348</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+</annotation>
